@@ -1,0 +1,2156 @@
+{
+  "Smartphones": [
+    {
+      "id": "1",
+      "name": "iPhone 14 Pro",
+      "brand": "Apple",
+      "price": 1099,
+      "stock": 0,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/251192/s16/iphone-14-pro-max-purple-650x650.png",
+      "description": "Latest iPhone with A16 Bionic chip, 120Hz display, and improved camera system.",
+      "specs": {
+        "screenSize": "6.1 inches",
+        "storage": "128GB",
+        "battery": "3200mAh"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "brand": "Samsung",
+      "price": 999,
+      "stock": 10,
+      "imageUrl": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-s23_1.png",
+      "description": "Flagship Samsung phone with Exynos 2200, 120Hz AMOLED display, and advanced camera setup.",
+      "specs": {
+        "screenSize": "6.2 inches",
+        "storage": "256GB",
+        "battery": "4000mAh"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Google Pixel 7",
+      "brand": "Google",
+      "price": 899,
+      "stock": 12,
+      "imageUrl": "https://clickbuy.com.vn/uploads/images/2022/10/Google-Pixel-7-Clickbuy1900633909-1.jpeg",
+      "description": "Google's latest smartphone with Tensor chip, PureView camera, and Android 12.",
+      "specs": {
+        "screenSize": "6.4 inches",
+        "storage": "128GB",
+        "battery": "4500mAh"
+      }
+    },
+    {
+      "id": "4",
+      "name": "OnePlus 10 Pro",
+      "brand": "OnePlus",
+      "price": 899,
+      "stock": 20,
+      "imageUrl": "https://images-cdn.ubuy.co.in/633aa645467390269404ae0a-oneplus-10-pro-5g-android-smartphone.jpg",
+      "description": "High-performance smartphone with Snapdragon 8 Gen 1, 120Hz display, and Hasselblad camera.",
+      "specs": {
+        "screenSize": "6.7 inches",
+        "storage": "256GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Xiaomi Mi 12",
+      "brand": "Xiaomi",
+      "price": 799,
+      "stock": 0,
+      "imageUrl": "https://demobile.vn/wp-content/uploads/2023/05/xiaomi-mi-12-8-256-likenew-bh-hang-1-nam-4.jpg",
+      "description": "Affordable flagship with Snapdragon 8 Gen 1, 108MP camera, and 120Hz AMOLED display.",
+      "specs": {
+        "screenSize": "6.28 inches",
+        "storage": "128GB",
+        "battery": "4500mAh"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Sony Xperia 1 IV",
+      "brand": "Sony",
+      "price": 1199,
+      "stock": 5,
+      "imageUrl": "https://ntstore.com.vn/wp-content/uploads/2023/11/sony-xperia-1-iv-purple-ntstore-com-vn.jpg",
+      "description": "Sony's flagship with 4K OLED display, advanced camera system, and Snapdragon 8 Gen 1.",
+      "specs": {
+        "screenSize": "6.5 inches",
+        "storage": "256GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Oppo Find X5 Pro",
+      "brand": "Oppo",
+      "price": 999,
+      "stock": 10,
+      "imageUrl": "https://cdn.mobilecity.vn/mobilecity-vn/images/2022/04/w300/oppo-find-x5-pro-trang.jpg.webp",
+      "description": "Premium smartphone with Snapdragon 8 Gen 1, 120Hz AMOLED display, and 50MP camera.",
+      "specs": {
+        "screenSize": "6.7 inches",
+        "storage": "256GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Vivo X80 Pro",
+      "brand": "Vivo",
+      "price": 899,
+      "stock": 12,
+      "imageUrl": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1653013637050/e0bef78c109ea6fae8dfb6100beff32c.png",
+      "description": "Advanced camera-focused phone with Snapdragon 8 Gen 1, Zeiss optics, and 120Hz display.",
+      "specs": {
+        "screenSize": "6.78 inches",
+        "storage": "256GB",
+        "battery": "4700mAh"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Realme GT 2 Pro",
+      "brand": "Realme",
+      "price": 699,
+      "stock": 15,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/258167/realme-gt-2-pro-050122-080902-600x600.jpg",
+      "description": "Flagship killer with Snapdragon 8 Gen 1, 2K AMOLED display, and 50MP triple camera.",
+      "specs": {
+        "screenSize": "6.7 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Huawei P50 Pro",
+      "brand": "Huawei",
+      "price": 899,
+      "stock": 8,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/226196/huawei-p50-pro-600x600.jpg",
+      "description": "High-end phone with Kirin 9000, OLED display, and Leica camera system.",
+      "specs": {
+        "screenSize": "6.6 inches",
+        "storage": "256GB",
+        "battery": "4360mAh"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Asus ROG Phone 6",
+      "brand": "Asus",
+      "price": 1099,
+      "stock": 6,
+      "imageUrl": "https://cdn.mobilecity.vn/mobilecity-vn/images/2022/07/w300/rog-phone-6-trang.jpg.webp",
+      "description": "Gaming phone with Snapdragon 8+ Gen 1, 165Hz display, and 6000mAh battery.",
+      "specs": {
+        "screenSize": "6.78 inches",
+        "storage": "512GB",
+        "battery": "6000mAh"
+      }
+    },
+    {
+      "id": "12",
+      "name": "Motorola Edge 30 Pro",
+      "brand": "Motorola",
+      "price": 799,
+      "stock": 9,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/267566/motorola-edge-30-pro-600x600.jpg",
+      "description": "Flagship with Snapdragon 8 Gen 1, 144Hz display, and 50MP dual camera.",
+      "specs": {
+        "screenSize": "6.7 inches",
+        "storage": "256GB",
+        "battery": "4800mAh"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Realme GT Neo 3",
+      "brand": "Realme",
+      "price": 649,
+      "stock": 14,
+      "imageUrl": "https://dienthoaihay.vn/images/products/2022/04/20/original/thumbnailgtneo3_1650506895.jpg.jpg",
+      "description": "Mid-range performance phone with Dimensity 8100, 120Hz display, and 150W fast charging.",
+      "specs": {
+        "screenSize": "6.7 inches",
+        "storage": "128GB",
+        "battery": "4500mAh"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Xiaomi 12 Lite",
+      "brand": "Xiaomi",
+      "price": 499,
+      "stock": 20,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/257332/xiaomi-12-lite-thumb-600x600.jpg",
+      "description": "Mid-range phone with Snapdragon 778G, 120Hz AMOLED display, and 64MP triple camera.",
+      "specs": {
+        "screenSize": "6.55 inches",
+        "storage": "128GB",
+        "battery": "4300mAh"
+      }
+    },
+    {
+      "id": "15",
+      "name": "Nokia G50",
+      "brand": "Nokia",
+      "price": 299,
+      "stock": 22,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/247281/nokia-g50-1-600x600.jpg",
+      "description": "Affordable 5G smartphone with Snapdragon 480, 6.82-inch display, and 48MP camera.",
+      "specs": {
+        "screenSize": "6.82 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "16",
+      "name": "Samsung Galaxy A53",
+      "brand": "Samsung",
+      "price": 449,
+      "stock": 0,
+      "imageUrl": "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-a53-5g-mau-xanh-didongviet.jpg",
+      "description": "Mid-range phone with Exynos 1280, 120Hz Super AMOLED display, and 64MP camera.",
+      "specs": {
+        "screenSize": "6.5 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "17",
+      "name": "Oppo Reno 7",
+      "brand": "Oppo",
+      "price": 399,
+      "stock": 18,
+      "imageUrl": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno7_4g/navigation/Navigation-SunsetOrange-427_600-pc.png",
+      "description": "Stylish mid-range phone with Snapdragon 778G, AMOLED display, and 64MP camera.",
+      "specs": {
+        "screenSize": "6.43 inches",
+        "storage": "128GB",
+        "battery": "4500mAh"
+      }
+    },
+    {
+      "id": "18",
+      "name": "Vivo V23",
+      "brand": "Vivo",
+      "price": 449,
+      "stock": 14,
+      "imageUrl": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1641279645168/6e3e2afa39aa4b61e485a2487b8e91ae.png",
+      "description": "Phone with Dimensity 920, 90Hz AMOLED display, and 64MP rear camera.",
+      "specs": {
+        "screenSize": "6.44 inches",
+        "storage": "128GB",
+        "battery": "4200mAh"
+      }
+    },
+    {
+      "id": "19",
+      "name": "Huawei Nova 9",
+      "brand": "Huawei",
+      "price": 499,
+      "stock": 13,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/249100/huawei-nova-9-1-600x600.jpg",
+      "description": "Mid-range phone with Snapdragon 778G, OLED display, and 50MP camera.",
+      "specs": {
+        "screenSize": "6.57 inches",
+        "storage": "128GB",
+        "battery": "4300mAh"
+      }
+    },
+    {
+      "id": "20",
+      "name": "OnePlus Nord 2T",
+      "brand": "OnePlus",
+      "price": 399,
+      "stock": 16,
+      "imageUrl": "https://i5.walmartimages.com/seo/OnePlus-Nord-2T-CPH2399-5G-128GB-8GB-RAM-GSM-Unlocked-Jade-Fog_827c69f2-ea45-4ddb-9f9b-8784ddcbc4a0.843ceaaccc19213e6f88c2ce249bd778.jpeg",
+      "description": "Affordable phone with Dimensity 1300, AMOLED display, and 80W fast charging.",
+      "specs": {
+        "screenSize": "6.43 inches",
+        "storage": "128GB",
+        "battery": "4500mAh"
+      }
+    },
+    {
+      "id": "21",
+      "name": "Samsung Galaxy M52",
+      "brand": "Samsung",
+      "price": 349,
+      "stock": 20,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/239750/samsung-galaxy-m52-5g-1-600x600.jpg",
+      "description": "Mid-range phone with Snapdragon 778G, 120Hz Super AMOLED display, and 64MP camera.",
+      "specs": {
+        "screenSize": "6.7 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "22",
+      "name": "Xiaomi Poco X4 Pro",
+      "brand": "Xiaomi",
+      "price": 299,
+      "stock": 22,
+      "imageUrl": "https://clickbuy.com.vn/uploads/images/2021/07/avt-poco-x4-pro-den.png",
+      "description": "Affordable phone with Snapdragon 695, 120Hz AMOLED display, and 108MP camera.",
+      "specs": {
+        "screenSize": "6.67 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "23",
+      "name": "Realme 9 Pro+",
+      "brand": "Realme",
+      "price": 349,
+      "stock": 21,
+      "imageUrl": "https://cdn.mobilecity.vn/mobilecity-vn/images/2022/03/w300/realme-9-pro-plus-xanh-binh-minh.jpg.webp",
+      "description": "Mid-range phone with Dimensity 920, 90Hz Super AMOLED display, and 50MP camera.",
+      "specs": {
+        "screenSize": "6.4 inches",
+        "storage": "128GB",
+        "battery": "4500mAh"
+      }
+    },
+    {
+      "id": "24",
+      "name": "Vivo Y76 5G",
+      "brand": "Vivo",
+      "price": 329,
+      "stock": 0,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/259884/vivo-y76-5g-600x600.jpg",
+      "description": "Affordable 5G phone with Dimensity 700, 50MP triple camera, and 4100mAh battery.",
+      "specs": {
+        "screenSize": "6.58 inches",
+        "storage": "128GB",
+        "battery": "4100mAh"
+      }
+    },
+    {
+      "id": "25",
+      "name": "Nokia X20",
+      "brand": "Nokia",
+      "price": 399,
+      "stock": 17,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/236178/nokia-x20-600x600.jpg",
+      "description": "Mid-range phone with Snapdragon 480, 6.67-inch display, and 64MP quad-camera.",
+      "specs": {
+        "screenSize": "6.67 inches",
+        "storage": "128GB",
+        "battery": "4470mAh"
+      }
+    },
+    {
+      "id": "26",
+      "name": "Huawei Y9a",
+      "brand": "Huawei",
+      "price": 299,
+      "stock": 19,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/228148/huawei-y9a-072720-022754-600x600.jpg",
+      "description": "Affordable phone with MediaTek Helio G80, 6.63-inch display, and 64MP quad-camera.",
+      "specs": {
+        "screenSize": "6.63 inches",
+        "storage": "128GB",
+        "battery": "4200mAh"
+      }
+    },
+    {
+      "id": "27",
+      "name": "Oppo A96",
+      "brand": "Oppo",
+      "price": 249,
+      "stock": 24,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/274381/oppo-a96-4g-260423-013718-600x600.jpg",
+      "description": "Budget phone with Snapdragon 680, 90Hz display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.59 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "28",
+      "name": "Samsung Galaxy A13",
+      "brand": "Samsung",
+      "price": 199,
+      "stock": 30,
+      "imageUrl": "https://hoangtusaigon.vn/wp-content/uploads/2023/02/samsung-galaxy-a13-xanh-thumb-1-600x600-1.jpg",
+      "description": "Affordable phone with Exynos 850, 6.6-inch display, and 50MP quad-camera.",
+      "specs": {
+        "screenSize": "6.6 inches",
+        "storage": "64GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "29",
+      "name": "Xiaomi Redmi Note 11",
+      "brand": "Xiaomi",
+      "price": 229,
+      "stock": 28,
+      "imageUrl": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_29921/xiaomi-redmi-no_main_199_1020.png.webp",
+      "description": "Affordable phone with Snapdragon 680, 90Hz AMOLED display, and 50MP camera.",
+      "specs": {
+        "screenSize": "6.43 inches",
+        "storage": "64GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "30",
+      "name": "Realme C35",
+      "brand": "Realme",
+      "price": 179,
+      "stock": 26,
+      "imageUrl": "https://cdn.hoanghamobile.com/i/preview/Uploads/2022/04/26/image-removebg-preview-7.png",
+      "description": "Budget phone with Unisoc T616, 6.6-inch display, and 50MP triple camera.",
+      "specs": {
+        "screenSize": "6.6 inches",
+        "storage": "64GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "31",
+      "name": "Vivo Y33s",
+      "brand": "Vivo",
+      "price": 239,
+      "stock": 25,
+      "imageUrl": "https://bizweb.dktcdn.net/thumb/large/100/506/962/products/vivo-y33s-5g-2.jpg?v=1712841891353",
+      "description": "Affordable phone with MediaTek Helio G80, 50MP camera, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.58 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "32",
+      "name": "Nokia G21",
+      "brand": "Nokia",
+      "price": 199,
+      "stock": 30,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/270207/nokia-g21-xanh-thumb-600x600.jpg",
+      "description": "Budget-friendly smartphone with Unisoc T606, 6.5-inch display, and 5050mAh battery.",
+      "specs": {
+        "screenSize": "6.5 inches",
+        "storage": "64GB",
+        "battery": "5050mAh"
+      }
+    },
+    {
+      "id": "33",
+      "name": "Samsung Galaxy M32",
+      "brand": "Samsung",
+      "price": 279,
+      "stock": 22,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/237634/samsung-galaxy-m32-1-600x600.jpg",
+      "description": "Mid-range phone with MediaTek Helio G80, 90Hz AMOLED display, and 64MP camera.",
+      "specs": {
+        "screenSize": "6.4 inches",
+        "storage": "128GB",
+        "battery": "6000mAh"
+      }
+    },
+    {
+      "id": "34",
+      "name": "Xiaomi Redmi 10",
+      "brand": "Xiaomi",
+      "price": 199,
+      "stock": 28,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/246200/redmi-10-gray-600x600.jpg",
+      "description": "Budget phone with MediaTek Helio G88, 90Hz display, and 50MP camera.",
+      "specs": {
+        "screenSize": "6.5 inches",
+        "storage": "64GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "35",
+      "name": "Realme Narzo 50",
+      "brand": "Realme",
+      "price": 219,
+      "stock": 24,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/249351/realme-narzo-50-thumb9-600x600.jpg",
+      "description": "Affordable gaming phone with MediaTek Helio G96, 120Hz display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.6 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "36",
+      "name": "Oppo A74 5G",
+      "brand": "Oppo",
+      "price": 299,
+      "stock": 22,
+      "imageUrl": "https://m.media-amazon.com/images/I/81WNrrsOFkS._AC_SL1500_.jpg",
+      "description": "Affordable 5G phone with Snapdragon 480, 90Hz display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.5 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "37",
+      "name": "Samsung Galaxy F41",
+      "brand": "Samsung",
+      "price": 249,
+      "stock": 20,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/228966/samsung-galaxy-f41-600jpg-600x600.jpg",
+      "description": "Budget phone with Exynos 9611, 6.4-inch Super AMOLED display, and 64MP camera.",
+      "specs": {
+        "screenSize": "6.4 inches",
+        "storage": "64GB",
+        "battery": "6000mAh"
+      }
+    },
+    {
+      "id": "38",
+      "name": "Xiaomi Poco M4 Pro",
+      "brand": "Xiaomi",
+      "price": 229,
+      "stock": 26,
+      "imageUrl": "https://cdn.hoanghamobile.com/i/preview/Uploads/2021/12/07/image-removebg-preview-6.png",
+      "description": "Affordable phone with MediaTek Dimensity 810, 90Hz display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.6 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "39",
+      "name": "Vivo T1 5G",
+      "brand": "Vivo",
+      "price": 269,
+      "stock": 21,
+      "imageUrl": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1650524111454/0ccc78170e114e572ed3585eb9db7de5.png",
+      "description": "Affordable 5G phone with Snapdragon 695, 120Hz display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.58 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "40",
+      "name": "Realme 8 5G",
+      "brand": "Realme",
+      "price": 229,
+      "stock": 24,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/236588/realme-8-5g-blue-1-600x600.jpg",
+      "description": "Affordable 5G phone with Dimensity 700, 90Hz display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.5 inches",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "41",
+      "name": "Oppo A16",
+      "brand": "Oppo",
+      "price": 179,
+      "stock": 27,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/240631/oppo-a16-silver-8-600x600.jpg",
+      "description": "Budget phone with MediaTek Helio G35, 6.52-inch display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.52 inches",
+        "storage": "64GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "42",
+      "name": "Samsung Galaxy A03s",
+      "brand": "Samsung",
+      "price": 149,
+      "stock": 30,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/241049/samsung-galaxy-a03s-black-600x600.jpg",
+      "description": "Budget phone with MediaTek Helio P35, 6.5-inch display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.5 inches",
+        "storage": "32GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "43",
+      "name": "Nokia C30",
+      "brand": "Nokia",
+      "price": 129,
+      "stock": 32,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/239748/nokia-c30-xam-1-600x600.jpg",
+      "description": "Ultra-affordable phone with Unisoc SC9863A, 6.82-inch display, and 6000mAh battery.",
+      "specs": {
+        "screenSize": "6.82 inches",
+        "storage": "32GB",
+        "battery": "6000mAh"
+      }
+    },
+    {
+      "id": "44",
+      "name": "Xiaomi Redmi 9A",
+      "brand": "Xiaomi",
+      "price": 119,
+      "stock": 34,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/218734/xiaomi-redmi-9a-xanhduong-600x600-200x200.jpg",
+      "description": "Ultra-affordable phone with MediaTek Helio G25, 6.53-inch display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.53 inches",
+        "storage": "32GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "45",
+      "name": "Realme C11",
+      "brand": "Realme",
+      "price": 109,
+      "stock": 36,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/236257/realme-c11-2021-blue-600x600.jpg",
+      "description": "Budget phone with MediaTek Helio G35, 6.5-inch display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.5 inches",
+        "storage": "32GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "46",
+      "name": "Oppo A15",
+      "brand": "Oppo",
+      "price": 139,
+      "stock": 30,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/229885/oppo-a15-black-fix-200x200.jpg",
+      "description": "Budget phone with MediaTek Helio P35, 6.52-inch display, and 4230mAh battery.",
+      "specs": {
+        "screenSize": "6.52 inches",
+        "storage": "32GB",
+        "battery": "4230mAh"
+      }
+    },
+    {
+      "id": "47",
+      "name": "Samsung Galaxy M02",
+      "brand": "Samsung",
+      "price": 119,
+      "stock": 35,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/229918/samsung-galaxy-m02-600x600-600x600.jpg",
+      "description": "Ultra-affordable phone with MediaTek MT6739W, 6.5-inch display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.5 inches",
+        "storage": "32GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "48",
+      "name": "Xiaomi Redmi 9C",
+      "brand": "Xiaomi",
+      "price": 129,
+      "stock": 32,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/226321/xiaomi-redmi-9c-3gb-xam-200x200.jpg",
+      "description": "Budget phone with MediaTek Helio G35, 6.53-inch display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.53 inches",
+        "storage": "32GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "49",
+      "name": "Vivo Y12s",
+      "brand": "Vivo",
+      "price": 139,
+      "stock": 30,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/229947/vivo-y12s-xanh-600x600.jpg",
+      "description": "Affordable phone with MediaTek Helio P35, 6.51-inch display, and 5000mAh battery.",
+      "specs": {
+        "screenSize": "6.51 inches",
+        "storage": "32GB",
+        "battery": "5000mAh"
+      }
+    },
+    {
+      "id": "50",
+      "name": "Nokia 1.4",
+      "brand": "Nokia",
+      "price": 99,
+      "stock": 38,
+      "imageUrl": "https://mobile4n.com/wp-content/uploads/2022/12/nokia-14.jpg",
+      "description": "Ultra-affordable phone with Snapdragon 215, 6.52-inch display, and 4000mAh battery.",
+      "specs": {
+        "screenSize": "6.52 inches",
+        "storage": "32GB",
+        "battery": "4000mAh"
+      }
+    }
+  ],
+  "laptops": [
+    {
+      "id": "51",
+      "name": "MacBook Air M1",
+      "brand": "Apple",
+      "price": 999,
+      "stock": 15,
+      "imageUrl": "https://shopdunk.com/images/thumbs/0000723_macbook-air-m1-2020-8gb-ram-256gb-ssd.png",
+      "description": "Lightweight laptop with Apple M1 chip, 13.3-inch Retina display, and 18-hour battery life.",
+      "specs": {
+        "screenSize": "13.3 inches",
+        "storage": "256GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "52",
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "price": 1199,
+      "stock": 10,
+      "imageUrl": "https://bizweb.dktcdn.net/100/378/807/products/xps-13-2024-9340-1710930027.jpg?v=1717239219020",
+      "description": "High-end ultrabook with Intel Core i7, 13.4-inch InfinityEdge display, and 512GB SSD.",
+      "specs": {
+        "screenSize": "13.4 inches",
+        "storage": "512GB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "53",
+      "name": "HP Spectre x360",
+      "brand": "HP",
+      "price": 1299,
+      "stock": 8,
+      "imageUrl": "https://gamalaptop.vn/wp-content/uploads/2021/07/HP-Spectre-x360-15-01.jpg",
+      "description": "Convertible laptop with Intel Core i7, 13.3-inch 4K touchscreen, and 16-hour battery life.",
+      "specs": {
+        "screenSize": "13.3 inches",
+        "storage": "512GB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "54",
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Asus",
+      "price": 1499,
+      "stock": 12,
+      "imageUrl": "https://ttcenter.com.vn/uploads/product/6stqjd69-1267-asus-rog-zephyrus-g14-ga402xv-ryzen-9-7940hs-16gb-512gb-rtx-4060-14-2k-ips-165hz-new.jpg",
+      "description": "Gaming laptop with AMD Ryzen 9, 14-inch QHD display, and NVIDIA RTX 3060.",
+      "specs": {
+        "screenSize": "14 inches",
+        "storage": "1TB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "55",
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "brand": "Lenovo",
+      "price": 1399,
+      "stock": 0,
+      "imageUrl": "https://minhvu.vn/thumb/lenovothinkpadx1carbonyoga/thinkpadx1carbongen11/lenovothinkpadx1carbongen11cbfjhc_480_360.jpg",
+      "description": "Business laptop with Intel Core i7, 14-inch FHD display, and 16-hour battery life.",
+      "specs": {
+        "screenSize": "14 inches",
+        "storage": "512GB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "56",
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Microsoft",
+      "price": 1299,
+      "stock": 11,
+      "imageUrl": "https://surfacestore.com.vn/wp-content/uploads/2022/03/surface-laptop-4-7-surfacestore-img.jpg",
+      "description": "Premium laptop with AMD Ryzen 5, 13.5-inch PixelSense display, and Alcantara keyboard.",
+      "specs": {
+        "screenSize": "13.5 inches",
+        "storage": "512GB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "57",
+      "name": "Acer Swift 3",
+      "brand": "Acer",
+      "price": 699,
+      "stock": 20,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/285765/acer-swift-3-sf314-512-56qn-i5-nxk0fsv002-ab-thumb-600x600.jpg",
+      "description": "Budget ultrabook with AMD Ryzen 7, 14-inch FHD display, and 512GB SSD.",
+      "specs": {
+        "screenSize": "14 inches",
+        "storage": "512GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "58",
+      "name": "Razer Blade 15",
+      "brand": "Razer",
+      "price": 1799,
+      "stock": 7,
+      "imageUrl": "https://bizweb.dktcdn.net/100/408/235/products/j-40440d1b-36ac-46dd-a517-e195e222e64b.jpg?v=1680495330830",
+      "description": "Gaming laptop with Intel Core i7, 15.6-inch FHD 144Hz display, and NVIDIA RTX 3070.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "1TB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "59",
+      "name": "Apple MacBook Pro 16",
+      "brand": "Apple",
+      "price": 2499,
+      "stock": 5,
+      "imageUrl": "https://bizweb.dktcdn.net/100/444/581/products/macbook-pro-16-teacherstore-02c16400-ca4b-4736-8999-b8baee25361a.png?v=1675737471857",
+      "description": "High-performance laptop with Apple M1 Pro chip, 16-inch Retina display, and 1TB SSD.",
+      "specs": {
+        "screenSize": "16 inches",
+        "storage": "1TB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "60",
+      "name": "LG Gram 17",
+      "brand": "LG",
+      "price": 1799,
+      "stock": 0,
+      "imageUrl": "https://lapvip.vn/upload/products/original/lg-gram-17-20232-1700187329.jpg",
+      "description": "Lightweight laptop with Intel Core i7, 17-inch WQXGA display, and 80Wh battery.",
+      "specs": {
+        "screenSize": "17 inches",
+        "storage": "1TB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "61",
+      "name": "Asus ZenBook 14",
+      "brand": "Asus",
+      "price": 999,
+      "stock": 12,
+      "imageUrl": "https://www.tncstore.vn/media/product/250-8611-55555.png",
+      "description": "Compact laptop with AMD Ryzen 5, 14-inch FHD display, and long battery life.",
+      "specs": {
+        "screenSize": "14 inches",
+        "storage": "512GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "62",
+      "name": "HP Envy x360",
+      "brand": "HP",
+      "price": 1099,
+      "stock": 14,
+      "imageUrl": "https://hoangsonstore.com/wp-content/uploads/2023/07/moi-100-hp-envy-x360-2023-core-i5-1335u-ram-8gb-ssd-512gb-14-inch-fullhd-6285-2.jpg",
+      "description": "Convertible laptop with Intel Core i5, 15.6-inch FHD touchscreen, and 512GB SSD.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "512GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "63",
+      "name": "Dell Inspiron 15",
+      "brand": "Dell",
+      "price": 799,
+      "stock": 18,
+      "imageUrl": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2024/02/17/dell-inspiron-15-3520-black-4.png",
+      "description": "Affordable laptop with Intel Core i5, 15.6-inch FHD display, and 256GB SSD.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "256GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "64",
+      "name": "Lenovo Legion 5",
+      "brand": "Lenovo",
+      "price": 1299,
+      "stock": 10,
+      "imageUrl": "https://ttcenter.com.vn/uploads/product/2qygkhyp-1249-lenovo-legion-5-y7000p-16irx9-2024-core-i7-14650hx-ram-16gb-ssd-1tb-rtx-4050-16-2-5k-165hz-new.png",
+      "description": "Gaming laptop with AMD Ryzen 7, 15.6-inch FHD 144Hz display, and NVIDIA GTX 1660 Ti.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "512GB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "65",
+      "name": "Acer Nitro 5",
+      "brand": "Acer",
+      "price": 999,
+      "stock": 14,
+      "imageUrl": "https://gamalaptop.vn/wp-content/uploads/2022/12/Acer-Nitro-5-i7-11800H-RTX-3050-01.jpg",
+      "description": "Budget gaming laptop with Intel Core i5, 15.6-inch FHD display, and NVIDIA GTX 1650.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "512GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "66",
+      "name": "Microsoft Surface Book 3",
+      "brand": "Microsoft",
+      "price": 1599,
+      "stock": 0,
+      "imageUrl": "https://surfacecity.vn/wp-content/uploads/book-3-ava.jpg",
+      "description": "Detachable laptop with Intel Core i7, 13.5-inch PixelSense display, and NVIDIA GTX 1660 Ti.",
+      "specs": {
+        "screenSize": "13.5 inches",
+        "storage": "512GB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "67",
+      "name": "Samsung Galaxy Book Pro",
+      "brand": "Samsung",
+      "price": 1299,
+      "stock": 11,
+      "imageUrl": "https://m.media-amazon.com/images/I/81R1NhIreyL._AC_SL1500_.jpg",
+      "description": "Thin and light laptop with Intel Core i5, 15.6-inch AMOLED display, and 20-hour battery life.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "512GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "68",
+      "name": "HP Pavilion 15",
+      "brand": "HP",
+      "price": 749,
+      "stock": 20,
+      "imageUrl": "https://anphat.com.vn/media/product/45795_laptop_hp_pavilion_15_eg3094tu_8c5l5pa_anphatpc_34.jpg",
+      "description": "Budget laptop with Intel Core i5, 15.6-inch FHD display, and 256GB SSD.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "256GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "69",
+      "name": "Asus TUF Gaming A15",
+      "brand": "Asus",
+      "price": 1099,
+      "stock": 13,
+      "imageUrl": "https://product.hstatic.net/200000722513/product/-asus-tuf-gaming-a15-fa507nv-lp046w-3_0a019bb8f8d1471784d5d44b69c2ae79_c572504c1000487787ead9a273f0fbd4_grande.png",
+      "description": "Durable gaming laptop with AMD Ryzen 7, 15.6-inch FHD 144Hz display, and NVIDIA RTX 3050.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "512GB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "70",
+      "name": "Dell G5 15",
+      "brand": "Dell",
+      "price": 1149,
+      "stock": 12,
+      "imageUrl": "https://zshop.vn/images/detailed/60/dell-g5-5590-black_mwhi-zg.jpg",
+      "description": "Mid-range gaming laptop with Intel Core i7, 15.6-inch FHD display, and NVIDIA GTX 1650.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "512GB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "71",
+      "name": "Lenovo IdeaPad 3",
+      "brand": "Lenovo",
+      "price": 599,
+      "stock": 0,
+      "imageUrl": "https://product.hstatic.net/200000420363/product/laptop-lenovo-ideapad-3-14iau7-82rj000hvn-3_a8d294c9a43b46cd94ef3c2cf1f473d3_master.jpg",
+      "description": "Budget laptop with AMD Ryzen 5, 15.6-inch FHD display, and 256GB SSD.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "256GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "72",
+      "name": "HP Omen 15",
+      "brand": "HP",
+      "price": 1299,
+      "stock": 10,
+      "imageUrl": "https://gamalaptop.vn/wp-content/uploads/2021/09/HP-OMEN-X-15-i5-7300HQ-GTX-1060-01.jpg",
+      "description": "High-performance gaming laptop with AMD Ryzen 7, 15.6-inch FHD 144Hz display, and NVIDIA RTX 3060.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "1TB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "73",
+      "name": "Apple MacBook Pro 14",
+      "brand": "Apple",
+      "price": 1999,
+      "stock": 0,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/253581/s16/apple-macbook-pro-14-m1-pro-2021-bac-thumb-650x650.png",
+      "description": "Premium laptop with Apple M1 Pro chip, 14-inch Retina display, and 1TB SSD.",
+      "specs": {
+        "screenSize": "14 inches",
+        "storage": "1TB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "74",
+      "name": "Asus Vivobook S15",
+      "brand": "Asus",
+      "price": 849,
+      "stock": 18,
+      "imageUrl": "https://owlgaming.vn/wp-content/uploads/2019/09/asus-vivobook-s15-s531-green.jpg",
+      "description": "Stylish laptop with Intel Core i5, 15.6-inch FHD display, and 512GB SSD.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "512GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "75",
+      "name": "Dell Latitude 7420",
+      "brand": "Dell",
+      "price": 1399,
+      "stock": 9,
+      "imageUrl": "https://product.hstatic.net/1000331874/product/dell_latitude_7420_i5_d5dd4ed1343645b792df2a6b758ce03b.jpg",
+      "description": "Business laptop with Intel Core i7, 14-inch FHD display, and long battery life.",
+      "specs": {
+        "screenSize": "14 inches",
+        "storage": "512GB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "76",
+      "name": "Lenovo Yoga 9i",
+      "brand": "Lenovo",
+      "price": 1499,
+      "stock": 8,
+      "imageUrl": "https://kinglap.vn/wp-content/uploads/2023/11/9i-7.jpg",
+      "description": "Convertible laptop with Intel Core i7, 14-inch 4K touchscreen, and 1TB SSD.",
+      "specs": {
+        "screenSize": "14 inches",
+        "storage": "1TB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "77",
+      "name": "Acer Aspire 5",
+      "brand": "Acer",
+      "price": 649,
+      "stock": 20,
+      "imageUrl": "https://anphat.com.vn/media/product/48614_laptop_acer_gaming_aspire_5_a515_58gm_598j_nx_kw1sv_002__2_.jpg",
+      "description": "Affordable laptop with Intel Core i5, 15.6-inch FHD display, and 256GB SSD.",
+      "specs": {
+        "screenSize": "15.6 inches",
+        "storage": "256GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "78",
+      "name": "HP Elite Dragonfly",
+      "brand": "HP",
+      "price": 1699,
+      "stock": 7,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/302984/hp-elitebook-dragonfly-g3-i7-6z980pa-070323-114211-600x600.jpg",
+      "description": "Business laptop with Intel Core i7, 13.3-inch FHD display, and long battery life.",
+      "specs": {
+        "screenSize": "13.3 inches",
+        "storage": "512GB SSD",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "79",
+      "name": "Microsoft Surface Pro 7",
+      "brand": "Microsoft",
+      "price": 899,
+      "stock": 12,
+      "imageUrl": "https://nguyencongpc.vn/media/product/19053-surface-pro-7-black-01.jpg",
+      "description": "2-in-1 laptop with Intel Core i5, 12.3-inch PixelSense display, and detachable keyboard.",
+      "specs": {
+        "screenSize": "12.3 inches",
+        "storage": "256GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "80",
+      "name": "Asus Chromebook Flip",
+      "brand": "Asus",
+      "price": 499,
+      "stock": 25,
+      "imageUrl": "https://images-cdn.ubuy.co.in/633aa22a7ca04336e5786b7b-asus-chrome.jpg",
+      "description": "Convertible Chromebook with Intel Core m3, 14-inch FHD touchscreen, and 64GB eMMC storage.",
+      "specs": {
+        "screenSize": "14 inches",
+        "storage": "64GB eMMC",
+        "ram": "4GB"
+      }
+    }
+  ],
+  "tablets": [
+    {
+      "id": "81",
+      "name": "Apple iPad Pro 12.9",
+      "brand": "Apple",
+      "price": 1099,
+      "stock": 10,
+      "imageUrl": "https://bizweb.dktcdn.net/100/442/323/products/ipad-pro-13-select-wifi-spacegray-202210-jpeg-080358a8-014a-470b-b72e-f5e71917ae6b-75606471-27c7-49fe-ade3-4bf42656cdb4-ec0044e4-d8b8-43fb-a9d9-0061f5b1b3b8.jpg?v=1717217233813",
+      "description": "High-performance tablet with M1 chip, 12.9-inch Liquid Retina display, and up to 2TB storage.",
+      "specs": {
+        "screenSize": "12.9 inches",
+        "storage": "128GB",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "82",
+      "name": "Samsung Galaxy Tab S8 Ultra",
+      "brand": "Samsung",
+      "price": 1149,
+      "stock": 8,
+      "imageUrl": "https://cdn-v2.didongviet.vn/files/media/catalog/product/s/a/samsung-galaxy-tab-s8-ultra-128gb-didongviet.jpeg",
+      "description": "Android tablet with Snapdragon 8 Gen 1, 14.6-inch AMOLED display, and S Pen included.",
+      "specs": {
+        "screenSize": "14.6 inches",
+        "storage": "128GB",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "83",
+      "name": "Microsoft Surface Pro 9",
+      "brand": "Microsoft",
+      "price": 999,
+      "stock": 12,
+      "imageUrl": "https://hoangsonstore.com/wp-content/uploads/2022/12/moi-100-microsoft-surface-pro-9-4252-1.jpg",
+      "description": "2-in-1 tablet with Intel Core i5, 13-inch PixelSense display, and detachable keyboard.",
+      "specs": {
+        "screenSize": "13 inches",
+        "storage": "256GB SSD",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "84",
+      "name": "Lenovo Tab P12 Pro",
+      "brand": "Lenovo",
+      "price": 799,
+      "stock": 15,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/522/248488/lenovo-tab-p12-pro-1-600x600.jpg",
+      "description": "High-end Android tablet with Snapdragon 888, 12.6-inch AMOLED display, and up to 256GB storage.",
+      "specs": {
+        "screenSize": "12.6 inches",
+        "storage": "128GB",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "85",
+      "name": "Apple iPad Air (5th Gen)",
+      "brand": "Apple",
+      "price": 599,
+      "stock": 18,
+      "imageUrl": "https://i.ebayimg.com/images/g/aZoAAOSwoQ9kqFUW/s-l1600.jpg",
+      "description": "Mid-range tablet with M1 chip, 10.9-inch Liquid Retina display, and 64GB storage.",
+      "specs": {
+        "screenSize": "10.9 inches",
+        "storage": "64GB",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "86",
+      "name": "Samsung Galaxy Tab A8",
+      "brand": "Samsung",
+      "price": 229,
+      "stock": 20,
+      "imageUrl": "https://product.hstatic.net/1000370129/product/galaxy_tab_a8_gray_digiphone_6b84a57429b04a06befdb36f70d6c67d_master.jpg",
+      "description": "Affordable tablet with Unisoc Tiger T618, 10.5-inch TFT display, and 32GB storage.",
+      "specs": {
+        "screenSize": "10.5 inches",
+        "storage": "32GB",
+        "ram": "3GB"
+      }
+    },
+    {
+      "id": "87",
+      "name": "Huawei MatePad Pro",
+      "brand": "Huawei",
+      "price": 799,
+      "stock": 14,
+      "imageUrl": "https://img.gkbcdn.com/s3/p/2019-11-29/Huawei-MatePad-Pro-WIFI-Tablet-PC-Android-10-0-8GB-256GB-White-889835-.jpg",
+      "description": "Premium Android tablet with Kirin 990, 10.8-inch IPS display, and 128GB storage.",
+      "specs": {
+        "screenSize": "10.8 inches",
+        "storage": "128GB",
+        "ram": "6GB"
+      }
+    },
+    {
+      "id": "88",
+      "name": "Amazon Fire HD 10",
+      "brand": "Amazon",
+      "price": 149,
+      "stock": 25,
+      "imageUrl": "https://product.hstatic.net/200000730863/product/untitled-1-500x500_5879402f19ef4fd08f885b64dfa61091_master.jpeg",
+      "description": "Budget tablet with MediaTek MT8183, 10.1-inch FHD display, and 32GB storage.",
+      "specs": {
+        "screenSize": "10.1 inches",
+        "storage": "32GB",
+        "ram": "3GB"
+      }
+    },
+    {
+      "id": "89",
+      "name": "Lenovo Tab M10 Plus",
+      "brand": "Lenovo",
+      "price": 299,
+      "stock": 17,
+      "imageUrl": "https://bizweb.dktcdn.net/100/471/129/products/5-7d9b3a0b-5e01-425b-936a-2bc2fc552aac.jpg?v=1704876553120",
+      "description": "Affordable tablet with MediaTek Helio P22T, 10.3-inch FHD display, and 64GB storage.",
+      "specs": {
+        "screenSize": "10.3 inches",
+        "storage": "64GB",
+        "ram": "4GB"
+      }
+    },
+    {
+      "id": "90",
+      "name": "Apple iPad Mini (6th Gen)",
+      "brand": "Apple",
+      "price": 499,
+      "stock": 16,
+      "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/442/323/products/f8d16699-7e50-4924-830b-21397533aabe.jpg",
+      "description": "Compact tablet with A15 Bionic chip, 8.3-inch Liquid Retina display, and 64GB storage.",
+      "specs": {
+        "screenSize": "8.3 inches",
+        "storage": "64GB",
+        "ram": "4GB"
+      }
+    },
+    {
+      "id": "91",
+      "name": "Microsoft Surface Go 3",
+      "brand": "Microsoft",
+      "price": 399,
+      "stock": 19,
+      "imageUrl": "https://hanoicomputercdn.com/media/product/62412_microsoft_surface_go_3_13.jpg",
+      "description": "Budget 2-in-1 tablet with Intel Pentium Gold, 10.5-inch PixelSense display, and 64GB storage.",
+      "specs": {
+        "screenSize": "10.5 inches",
+        "storage": "64GB",
+        "ram": "4GB"
+      }
+    },
+    {
+      "id": "92",
+      "name": "Samsung Galaxy Tab S7",
+      "brand": "Samsung",
+      "price": 649,
+      "stock": 13,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/522/225031/samsung-galaxy-tab-s7-gold-new-600x600.jpg",
+      "description": "High-performance tablet with Snapdragon 865+, 11-inch LCD display, and 128GB storage.",
+      "specs": {
+        "screenSize": "11 inches",
+        "storage": "128GB",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "93",
+      "name": "Apple iPad (10th Gen)",
+      "brand": "Apple",
+      "price": 449,
+      "stock": 21,
+      "imageUrl": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/ipad-2022-hero-blue-wifi-select.png",
+      "description": "Entry-level iPad with A14 Bionic chip, 10.9-inch Liquid Retina display, and 64GB storage.",
+      "specs": {
+        "screenSize": "10.9 inches",
+        "storage": "64GB",
+        "ram": "4GB"
+      }
+    },
+    {
+      "id": "94",
+      "name": "Huawei MediaPad M6",
+      "brand": "Huawei",
+      "price": 499,
+      "stock": 11,
+      "imageUrl": "https://product.hstatic.net/1000238589/product/huawei_mediapad_m6_8.4_2019_18518ae4876c45e7b801c9c720d77082_large.jpg",
+      "description": "Android tablet with Kirin 980, 10.8-inch IPS display, and 64GB storage.",
+      "specs": {
+        "screenSize": "10.8 inches",
+        "storage": "64GB",
+        "ram": "4GB"
+      }
+    },
+    {
+      "id": "95",
+      "name": "Lenovo Tab K10",
+      "brand": "Lenovo",
+      "price": 349,
+      "stock": 14,
+      "imageUrl": "https://p4-ofp.static.pub/fes/cms/2022/03/01/ao0ry4qgnyf7x0hth8eekcu2ygt62z118260.png",
+      "description": "Affordable tablet with MediaTek Helio P22T, 10.3-inch FHD display, and 32GB storage.",
+      "specs": {
+        "screenSize": "10.3 inches",
+        "storage": "32GB",
+        "ram": "3GB"
+      }
+    },
+    {
+      "id": "96",
+      "name": "Amazon Fire HD 8",
+      "brand": "Amazon",
+      "price": 99,
+      "stock": 22,
+      "imageUrl": "https://product.hstatic.net/200000730863/product/8-500x500_899bc0bd902f431285cb7fddc53d45c1_master.jpeg",
+      "description": "Budget tablet with MediaTek MT8168, 8-inch HD display, and 32GB storage.",
+      "specs": {
+        "screenSize": "8 inches",
+        "storage": "32GB",
+        "ram": "2GB"
+      }
+    },
+    {
+      "id": "97",
+      "name": "Xiaomi Pad 5",
+      "brand": "Xiaomi",
+      "price": 399,
+      "stock": 20,
+      "imageUrl": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture/Apro/Apro_product_27247/mtb-pad-56256gb_main_12_450.png.webp",
+      "description": "Android tablet with Snapdragon 860, 11-inch WQHD+ display, and 128GB storage.",
+      "specs": {
+        "screenSize": "11 inches",
+        "storage": "128GB",
+        "ram": "6GB"
+      }
+    },
+    {
+      "id": "98",
+      "name": "Apple iPad Pro 11",
+      "brand": "Apple",
+      "price": 799,
+      "stock": 9,
+      "imageUrl": "https://bizweb.dktcdn.net/100/442/323/products/ipad-pro-11-select-wifi-spacegray-202210-jpeg-59f00a80-3c3b-457e-84d2-7dd149cabb32.jpg?v=1666865304767",
+      "description": "Powerful tablet with M1 chip, 11-inch Liquid Retina display, and up to 1TB storage.",
+      "specs": {
+        "screenSize": "11 inches",
+        "storage": "128GB",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "99",
+      "name": "Samsung Galaxy Tab S7 FE",
+      "brand": "Samsung",
+      "price": 529,
+      "stock": 14,
+      "imageUrl": "https://clickbuy.com.vn/uploads/images/2021/09/1323213.jpg",
+      "description": "Large tablet with Snapdragon 750G, 12.4-inch TFT display, and 64GB storage.",
+      "specs": {
+        "screenSize": "12.4 inches",
+        "storage": "64GB",
+        "ram": "4GB"
+      }
+    },
+    {
+      "id": "100",
+      "name": "Lenovo Yoga Tab 13",
+      "brand": "Lenovo",
+      "price": 679,
+      "stock": 11,
+      "imageUrl": "https://p4-ofp.static.pub/fes/cms/2021/08/26/9io0aj37ww1119wi33i0mpwbi231zh359306.png",
+      "description": "Premium tablet with Snapdragon 870, 13-inch 2K display, and 128GB storage.",
+      "specs": {
+        "screenSize": "13 inches",
+        "storage": "128GB",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "101",
+      "name": "Huawei MatePad 11",
+      "brand": "Huawei",
+      "price": 399,
+      "stock": 16,
+      "imageUrl": "https://images-cdn.ubuy.co.in/65ed76670eacaf6d22214149-new-huawei-matepad-11-2023-tablet-pc-11.jpg",
+      "description": "Android tablet with Snapdragon 865, 11-inch 120Hz display, and 64GB storage.",
+      "specs": {
+        "screenSize": "11 inches",
+        "storage": "64GB",
+        "ram": "6GB"
+      }
+    },
+    {
+      "id": "102",
+      "name": "Samsung Galaxy Tab A7",
+      "brand": "Samsung",
+      "price": 229,
+      "stock": 23,
+      "imageUrl": "https://m.media-amazon.com/images/I/61KIendhj0S._AC_SL1000_.jpg",
+      "description": "Budget tablet with Snapdragon 662, 10.4-inch TFT display, and 32GB storage.",
+      "specs": {
+        "screenSize": "10.4 inches",
+        "storage": "32GB",
+        "ram": "3GB"
+      }
+    },
+    {
+      "id": "103",
+      "name": "Apple iPad Mini (5th Gen)",
+      "brand": "Apple",
+      "price": 399,
+      "stock": 12,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71ZZtEr4kaL.jpg",
+      "description": "Compact tablet with A12 Bionic chip, 7.9-inch Retina display, and 64GB storage.",
+      "specs": {
+        "screenSize": "7.9 inches",
+        "storage": "64GB",
+        "ram": "3GB"
+      }
+    },
+    {
+      "id": "104",
+      "name": "Microsoft Surface Pro X",
+      "brand": "Microsoft",
+      "price": 899,
+      "stock": 8,
+      "imageUrl": "https://surfaceviet.vn/wp-content/uploads/2021/10/Surface-pro-x-2021.jpg",
+      "description": "2-in-1 tablet with Microsoft SQ1 processor, 13-inch PixelSense display, and 128GB storage.",
+      "specs": {
+        "screenSize": "13 inches",
+        "storage": "128GB",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": "105",
+      "name": "Lenovo Tab P11 Plus",
+      "brand": "Lenovo",
+      "price": 499,
+      "stock": 10,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/522/244684/lenovo-tab-p11-plus-2-600x600.jpg",
+      "description": "Mid-range tablet with MediaTek Helio G90T, 11-inch 2K display, and 128GB storage.",
+      "specs": {
+        "screenSize": "11 inches",
+        "storage": "128GB",
+        "ram": "6GB"
+      }
+    },
+    {
+      "id": "106",
+      "name": "Apple iPad Air (4th Gen)",
+      "brand": "Apple",
+      "price": 599,
+      "stock": 14,
+      "imageUrl": "https://cdn8.web4s.vn/media/products/151/9techvn-apple-10-9-22-ipad-air00008.jpg",
+      "description": "Mid-range tablet with A14 Bionic chip, 10.9-inch Liquid Retina display, and 64GB storage.",
+      "specs": {
+        "screenSize": "10.9 inches",
+        "storage": "64GB",
+        "ram": "4GB"
+      }
+    },
+    {
+      "id": "107",
+      "name": "Samsung Galaxy Tab S6",
+      "brand": "Samsung",
+      "price": 649,
+      "stock": 9,
+      "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/6/s6-tablet-2_1_1.jpg",
+      "description": "High-end tablet with Snapdragon 855, 10.5-inch Super AMOLED display, and 128GB storage.",
+      "specs": {
+        "screenSize": "10.5 inches",
+        "storage": "128GB",
+        "ram": "6GB"
+      }
+    },
+    {
+      "id": "108",
+      "name": "Huawei MatePad T10s",
+      "brand": "Huawei",
+      "price": 249,
+      "stock": 21,
+      "imageUrl": "https://phucanhcdn.com/media/product/42770_matepad_t_10s__blue_ha2.jpg",
+      "description": "Budget tablet with Kirin 710A, 10.1-inch FHD display, and 64GB storage.",
+      "specs": {
+        "screenSize": "10.1 inches",
+        "storage": "64GB",
+        "ram": "3GB"
+      }
+    },
+    {
+      "id": "109",
+      "name": "Lenovo Tab M8",
+      "brand": "Lenovo",
+      "price": 149,
+      "stock": 28,
+      "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/may-tinh-bang-lenovo-tab-m8-gen-4_1_.png",
+      "description": "Entry-level tablet with MediaTek MT6761, 8-inch HD display, and 32GB storage.",
+      "specs": {
+        "screenSize": "8 inches",
+        "storage": "32GB",
+        "ram": "2GB"
+      }
+    },
+    {
+      "id": "110",
+      "name": "Xiaomi Pad 6",
+      "brand": "Xiaomi",
+      "price": 449,
+      "stock": 13,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/522/309848/xiaomi-pad-6-blue-thumb-600x600.jpg",
+      "description": "Android tablet with Snapdragon 8+ Gen 1, 11-inch WQHD+ display, and 128GB storage.",
+      "specs": {
+        "screenSize": "11 inches",
+        "storage": "128GB",
+        "ram": "8GB"
+      }
+    }
+  ],
+  "headphones": [
+    {
+      "id": "111",
+      "name": "Sony WH-1000XM5",
+      "brand": "Sony",
+      "price": 349,
+      "stock": 15,
+      "imageUrl": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/04/14/sony-wh-1000xm5-3.png",
+      "description": "Premium noise-cancelling headphones with adaptive sound control, 30-hour battery life.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.0",
+        "batteryLife": "30 hours"
+      }
+    },
+    {
+      "id": "112",
+      "name": "Bose QuietComfort 45",
+      "brand": "Bose",
+      "price": 329,
+      "stock": 12,
+      "imageUrl": "https://antien.vn/uploaded/Bose%20Quietcomfort%2045/Bose-QuietComfort-45-chinh-hang.jpg",
+      "description": "Comfortable noise-cancelling headphones with 24-hour battery life and Alexa voice control.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.1",
+        "batteryLife": "24 hours"
+      }
+    },
+    {
+      "id": "113",
+      "name": "Apple AirPods Max",
+      "brand": "Apple",
+      "price": 549,
+      "stock": 8,
+      "imageUrl": "https://cdn2.fptshop.com.vn/unsafe/2021_3_26_637523738137561484_tai-nghe-airpods-max-dd-1.jpg",
+      "description": "High-fidelity headphones with spatial audio, active noise cancellation, and 20-hour battery life.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Spatial Audio",
+        "batteryLife": "20 hours"
+      }
+    },
+    {
+      "id": "114",
+      "name": "Sennheiser Momentum 4",
+      "brand": "Sennheiser",
+      "price": 349,
+      "stock": 10,
+      "imageUrl": "https://thoidaicongnghe.vn/wp-content/uploads/2022/10/tai-nghe-sennheiser-momentum-4-wireless-2.jpeg",
+      "description": "High-quality over-ear headphones with adaptive noise cancellation and 60-hour battery life.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.0",
+        "batteryLife": "60 hours"
+      }
+    },
+    {
+      "id": "115",
+      "name": "Jabra Elite 85h",
+      "brand": "Jabra",
+      "price": 299,
+      "stock": 14,
+      "imageUrl": "https://product.hstatic.net/200000722513/product/jabra_elite_85h_3_a983edc21276430bbaafa4293de1b9db_b0c16ccb3a034ad99e6676a0e5f2b962_1024x1024.jpg",
+      "description": "Durable headphones with Smart Active Noise Cancellation and 36-hour battery life.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.0",
+        "batteryLife": "36 hours"
+      }
+    },
+    {
+      "id": "116",
+      "name": "Bose 700",
+      "brand": "Bose",
+      "price": 379,
+      "stock": 9,
+      "imageUrl": "https://antien.vn/uploaded/Bose%20Headphone%20700/tai-nghe-bose-noise-cancelling-headphones-700.jpg",
+      "description": "Comfortable noise-cancelling headphones with 11 levels of noise cancellation and 20-hour battery life.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.0",
+        "batteryLife": "20 hours"
+      }
+    },
+    {
+      "id": "117",
+      "name": "Sony WH-XB900N",
+      "brand": "Sony",
+      "price": 249,
+      "stock": 16,
+      "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/b/xb900n_bl_standard-jpg-100801598-large_2.jpg",
+      "description": "Bass-heavy noise-cancelling headphones with 30-hour battery life and Bluetooth connectivity.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 4.2",
+        "batteryLife": "30 hours"
+      }
+    },
+    {
+      "id": "118",
+      "name": "Beats Studio3 Wireless",
+      "brand": "Beats",
+      "price": 349,
+      "stock": 13,
+      "imageUrl": "https://binhminhdigital.com/storedata/images/product/tai-nghe-beats-studio3-wireless-headphones-the-beats-skyline-collection-midnight-black.jpg",
+      "description": "Wireless headphones with Pure Adaptive Noise Cancelling and 22-hour battery life.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 4.0",
+        "batteryLife": "22 hours"
+      }
+    },
+    {
+      "id": "119",
+      "name": "JBL Club One",
+      "brand": "JBL",
+      "price": 299,
+      "stock": 11,
+      "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/451/485/products/tai-nghe-jbl-club-one-1.jpg?v=1663386018053",
+      "description": "High-end headphones with adaptive noise cancelling, 45-hour battery life, and JBL Pro Sound.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.0",
+        "batteryLife": "45 hours"
+      }
+    },
+    {
+      "id": "120",
+      "name": "Plantronics BackBeat Pro 2",
+      "brand": "Plantronics",
+      "price": 249,
+      "stock": 15,
+      "imageUrl": "https://duhung.vn/wp-content/uploads/2019/08/207110-08.jpg",
+      "description": "Comfortable headphones with active noise cancelling and 24-hour battery life.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 4.0",
+        "batteryLife": "24 hours"
+      }
+    },
+    {
+      "id": "121",
+      "name": "Skullcandy Crusher ANC",
+      "brand": "Skullcandy",
+      "price": 319,
+      "stock": 10,
+      "imageUrl": "https://m.media-amazon.com/images/I/71w68INyh8L._AC_UF894,1000_QL80_.jpg",
+      "description": "Bass-heavy headphones with active noise cancelling and adjustable sensory bass.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 4.2",
+        "batteryLife": "24 hours"
+      }
+    },
+    {
+      "id": "122",
+      "name": "AKG N700NC M2",
+      "brand": "AKG",
+      "price": 299,
+      "stock": 12,
+      "imageUrl": "https://m.media-amazon.com/images/I/71fhdVDtt-L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Noise-cancelling headphones with 20-hour battery life and Bluetooth connectivity.",
+      "specs": {
+        "type": "Over-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 4.0",
+        "batteryLife": "20 hours"
+      }
+    },
+    {
+      "id": "123",
+      "name": "Bose Sport Earbuds",
+      "brand": "Bose",
+      "price": 199,
+      "stock": 20,
+      "imageUrl": "https://antien.vn/uploaded/Bose%20Sport%20Earbuds/Bose-sport-earbuds.jpg",
+      "description": "Wireless earbuds with secure fit, IPX4 water resistance, and up to 5 hours of battery life.",
+      "specs": {
+        "type": "In-Ear",
+        "features": "Water Resistant, Bluetooth 5.1",
+        "batteryLife": "5 hours"
+      }
+    },
+    {
+      "id": "124",
+      "name": "Sony WF-1000XM4",
+      "brand": "Sony",
+      "price": 279,
+      "stock": 17,
+      "imageUrl": "https://antien.vn/uploaded/Sony%20WF-1000XM4/tai-nghe-sony-wf-1000mx4-anh-an-tien.png",
+      "description": "Premium noise-cancelling earbuds with 8-hour battery life and high-resolution audio.",
+      "specs": {
+        "type": "In-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.2",
+        "batteryLife": "8 hours"
+      }
+    },
+    {
+      "id": "125",
+      "name": "Apple AirPods Pro",
+      "brand": "Apple",
+      "price": 249,
+      "stock": 25,
+      "imageUrl": "https://bizweb.dktcdn.net/thumb/grande/100/440/746/files/mwp22-av3-jpeg.jpg?v=1636690958199",
+      "description": "Noise-cancelling earbuds with adaptive EQ, spatial audio, and 4.5-hour battery life.",
+      "specs": {
+        "type": "In-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.0",
+        "batteryLife": "4.5 hours"
+      }
+    },
+    {
+      "id": "126",
+      "name": "Jabra Elite Active 75t",
+      "brand": "Jabra",
+      "price": 229,
+      "stock": 18,
+      "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-true-wireless-jabra-elite-75t-7.jpg",
+      "description": "Sport-focused earbuds with active noise cancellation, IP57 water resistance, and 7.5-hour battery life.",
+      "specs": {
+        "type": "In-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.0, Water Resistant",
+        "batteryLife": "7.5 hours"
+      }
+    },
+    {
+      "id": "127",
+      "name": "Sennheiser Momentum True Wireless 3",
+      "brand": "Sennheiser",
+      "price": 319,
+      "stock": 14,
+      "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/451/485/products/tai-nghe-sennheiser-momentum-true-wireless-3-black-1.jpg?v=1668047104637",
+      "description": "High-fidelity wireless earbuds with noise cancellation and 7-hour battery life.",
+      "specs": {
+        "type": "In-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.2",
+        "batteryLife": "7 hours"
+      }
+    },
+    {
+      "id": "128",
+      "name": "Samsung Galaxy Buds Pro",
+      "brand": "Samsung",
+      "price": 229,
+      "stock": 22,
+      "imageUrl": "https://m.media-amazon.com/images/I/51TkK-s68qS._AC_SL1000_.jpg",
+      "description": "Wireless earbuds with active noise cancelling, 8-hour battery life, and 2-way speakers.",
+      "specs": {
+        "type": "In-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.0",
+        "batteryLife": "8 hours"
+      }
+    },
+    {
+      "id": "129",
+      "name": "Anker Soundcore Liberty Air 2 Pro",
+      "brand": "Anker",
+      "price": 129,
+      "stock": 30,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71-U07f-vKL.jpg",
+      "description": "Affordable earbuds with noise cancelling, customizable sound profile, and 7-hour battery life.",
+      "specs": {
+        "type": "In-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.0",
+        "batteryLife": "7 hours"
+      }
+    },
+    {
+      "id": "130",
+      "name": "Google Pixel Buds Pro",
+      "brand": "Google",
+      "price": 199,
+      "stock": 20,
+      "imageUrl": "https://bachlongstore.vn/vnt_upload/product/03_2024/421421456.png",
+      "description": "Noise-cancelling earbuds with Google Assistant integration and up to 11 hours of battery life.",
+      "specs": {
+        "type": "In-Ear",
+        "features": "Active Noise Cancelling, Bluetooth 5.0",
+        "batteryLife": "11 hours"
+      }
+    }
+  ],
+  "bluetoothSpeakers": [
+    {
+      "id": "131",
+      "name": "JBL Charge 5",
+      "brand": "JBL",
+      "price": 149,
+      "stock": 25,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/2162/251230/bluetooth-jbl-charge-5-2-org.jpg",
+      "description": "Portable speaker with deep bass, 20-hour battery life, and IP67 waterproof rating.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 5.1, Waterproof, 20-hour battery",
+        "batteryLife": "20 hours"
+      }
+    },
+    {
+      "id": "132",
+      "name": "Bose SoundLink Revolve+",
+      "brand": "Bose",
+      "price": 299,
+      "stock": 10,
+      "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/451/485/products/loa-bose-soundlink-revolve-plus-ii-12.jpg?v=1680841455467",
+      "description": "360-degree sound speaker with up to 16 hours of battery life and water resistance.",
+      "specs": {
+        "type": "Portable",
+        "features": "360-degree Sound, Bluetooth 4.1, Water Resistant",
+        "batteryLife": "16 hours"
+      }
+    },
+    {
+      "id": "133",
+      "name": "Sony SRS-XB43",
+      "brand": "Sony",
+      "price": 399,
+      "stock": 8,
+      "imageUrl": "https://bizweb.dktcdn.net/thumb/medium/100/479/913/products/loa-bluetooth-sony-srs-xb33-06.jpg?v=1681886685703",
+      "description": "High-power portable speaker with EXTRA BASS, LED lights, and up to 24-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 5.0, LED Lights, Extra Bass",
+        "batteryLife": "24 hours"
+      }
+    },
+    {
+      "id": "134",
+      "name": "Ultimate Ears MEGABOOM 3",
+      "brand": "Ultimate Ears",
+      "price": 179,
+      "stock": 12,
+      "imageUrl": "https://bizweb.dktcdn.net/100/410/941/products/336805-product-1-i-1024x1024.jpg?v=1690431511090",
+      "description": "Durable speaker with 360-degree sound, IP67 rating, and 20-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "360-degree Sound, Waterproof, 20-hour battery",
+        "batteryLife": "20 hours"
+      }
+    },
+    {
+      "id": "135",
+      "name": "Marshall Stanmore II",
+      "brand": "Marshall",
+      "price": 349,
+      "stock": 7,
+      "imageUrl": "https://antien.vn/uploads/product/loa-bluetooth-marshall-stanmore2_1551082680.jpg",
+      "description": "Classic design speaker with powerful sound, Bluetooth 5.0, and 20-hour battery life.",
+      "specs": {
+        "type": "Home",
+        "features": "Bluetooth 5.0, Classic Design, 20-hour battery",
+        "batteryLife": "20 hours"
+      }
+    },
+    {
+      "id": "136",
+      "name": "Bose SoundLink Mini II",
+      "brand": "Bose",
+      "price": 199,
+      "stock": 18,
+      "imageUrl": "https://antien.vn/uploaded/images/4/bose-soundlink-mini-2.jpg",
+      "description": "Compact speaker with impressive sound quality, up to 12 hours of battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 4.2, Compact Design, 12-hour battery",
+        "batteryLife": "12 hours"
+      }
+    },
+    {
+      "id": "137",
+      "name": "JBL Flip 6",
+      "brand": "JBL",
+      "price": 129,
+      "stock": 20,
+      "imageUrl": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/06/30/image-removebg-preview-9.png",
+      "description": "Compact speaker with robust sound, IP67 rating, and 12-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 5.1, Waterproof, 12-hour battery",
+        "batteryLife": "12 hours"
+      }
+    },
+    {
+      "id": "138",
+      "name": "Sony SRS-XB33",
+      "brand": "Sony",
+      "price": 299,
+      "stock": 15,
+      "imageUrl": "https://bizweb.dktcdn.net/100/479/913/products/loa-bluetooth-sony-srs-xb33-04.jpg?v=1681886719100",
+      "description": "Powerful speaker with EXTRA BASS, LED lights, and up to 24-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 5.0, LED Lights, Extra Bass",
+        "batteryLife": "24 hours"
+      }
+    },
+    {
+      "id": "139",
+      "name": "Bose SoundLink Flex",
+      "brand": "Bose",
+      "price": 149,
+      "stock": 22,
+      "imageUrl": "https://antien.vn/uploaded/Bose%20SoundLink%20Flex/loa-bluetooth-bose-soundlink-flex-trang.jpg",
+      "description": "Ultra-portable speaker with deep bass, rugged design, and 12-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 4.2, Waterproof, 12-hour battery",
+        "batteryLife": "12 hours"
+      }
+    },
+    {
+      "id": "140",
+      "name": "Ultimate Ears BOOM 3",
+      "brand": "Ultimate Ears",
+      "price": 149,
+      "stock": 20,
+      "imageUrl": "https://hanoicomputercdn.com/media/product/66082_loa_di_dong_ultimate_ears_boom_3_mau_xanh_duong_2.jpg",
+      "description": "Rugged speaker with 360-degree sound, IP67 rating, and 15-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "360-degree Sound, Waterproof, 15-hour battery",
+        "batteryLife": "15 hours"
+      }
+    },
+    {
+      "id": "141",
+      "name": "Anker Soundcore Flare 2",
+      "brand": "Anker",
+      "price": 99,
+      "stock": 30,
+      "imageUrl": "https://product.hstatic.net/1000153276/product/loa_bluetooth_soundcore_flare_2_20w_-_a3165_b910a5889a71466bb71e4339a25d814c.png",
+      "description": "Affordable speaker with 360-degree sound, LED lights, and 12-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "360-degree Sound, LED Lights, 12-hour battery",
+        "batteryLife": "12 hours"
+      }
+    },
+    {
+      "id": "142",
+      "name": "JBL Pulse 4",
+      "brand": "JBL",
+      "price": 299,
+      "stock": 10,
+      "imageUrl": "https://vn.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc3f278ee/JBL_PULSE4_HERO_WHITE_001.png?sw=537&sfrm=png",
+      "description": "Bluetooth speaker with dynamic light show, 360-degree sound, and 12-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "360-degree Sound, LED Lights, Waterproof",
+        "batteryLife": "12 hours"
+      }
+    },
+    {
+      "id": "143",
+      "name": "Marshall Emberton",
+      "brand": "Marshall",
+      "price": 199,
+      "stock": 14,
+      "imageUrl": "https://antien.vn/uploaded/Marshall%20Emberton/loa-Marshall-Emberton.png",
+      "description": "Compact speaker with classic Marshall design, 20-hour battery life, and excellent sound quality.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 5.0, Classic Design, 20-hour battery",
+        "batteryLife": "20 hours"
+      }
+    },
+    {
+      "id": "144",
+      "name": "Sony SRS-XG500",
+      "brand": "Sony",
+      "price": 499,
+      "stock": 6,
+      "imageUrl": "https://bizweb.dktcdn.net/100/479/913/products/loa-sony-srs-xg500-05.jpg?v=1681879582793",
+      "description": "Powerful portable speaker with X-Balanced Speaker Units, LED lights, and 30-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 5.0, LED Lights, 30-hour battery",
+        "batteryLife": "30 hours"
+      }
+    },
+    {
+      "id": "145",
+      "name": "JBL Xtreme 3",
+      "brand": "JBL",
+      "price": 349,
+      "stock": 9,
+      "imageUrl": "https://vn.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc9667906/JBL_XTREME_3_HERO_0010_x2.png?sw=537&sfrm=png",
+      "description": "Large speaker with deep bass, IP67 rating, and 15-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 5.1, Waterproof, 15-hour battery",
+        "batteryLife": "15 hours"
+      }
+    },
+    {
+      "id": "146",
+      "name": "Harman Kardon Onyx Studio 7",
+      "brand": "Harman Kardon",
+      "price": 299,
+      "stock": 11,
+      "imageUrl": "https://vn.harmankardon.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw1159e06e/JBL_ONYX7_HERO_V2_GREY_0236_x1.jpg?sw=556&sh=680&sm=fit&sfrm=png",
+      "description": "Elegant speaker with high-performance sound, Bluetooth connectivity, and up to 8-hour battery life.",
+      "specs": {
+        "type": "Home",
+        "features": "Bluetooth 4.2, Elegant Design, 8-hour battery",
+        "batteryLife": "8 hours"
+      }
+    },
+    {
+      "id": "147",
+      "name": "Bose SoundLink Touch",
+      "brand": "Bose",
+      "price": 179,
+      "stock": 16,
+      "imageUrl": "https://techlandaudio.com.vn/wp-content/uploads/2016/11/loa-bose-soundtouch-30-1.jpg",
+      "description": "Compact Bluetooth speaker with easy-to-use controls, 10-hour battery life, and durable design.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 4.2, Durable Design, 10-hour battery",
+        "batteryLife": "10 hours"
+      }
+    },
+    {
+      "id": "148",
+      "name": "Anker Soundcore Motion+",
+      "brand": "Anker",
+      "price": 119,
+      "stock": 25,
+      "imageUrl": "https://product.hstatic.net/1000153276/product/a3116_soundcore_motion_plus_new_c5b7033aad3b46a3b6385a4f15c23c70_master.png",
+      "description": "Powerful speaker with Hi-Res audio, IPX7 waterproof rating, and 12-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "Hi-Res Audio, Waterproof, 12-hour battery",
+        "batteryLife": "12 hours"
+      }
+    },
+    {
+      "id": "149",
+      "name": "JBL GO 3",
+      "brand": "JBL",
+      "price": 39,
+      "stock": 50,
+      "imageUrl": "https://cdn.tgdd.vn/Products/Images/2162/242826/bluetooth-jbl-go-3-xanh-den-1-org.jpg",
+      "description": "Compact and affordable speaker with JBL sound quality, IP67 rating, and 5-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 5.1, Waterproof, 5-hour battery",
+        "batteryLife": "5 hours"
+      }
+    },
+    {
+      "id": "150",
+      "name": "Sony SRS-XB12",
+      "brand": "Sony",
+      "price": 79,
+      "stock": 30,
+      "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/7/1777-sony-srs-xb12-1.jpg",
+      "description": "Compact speaker with EXTRA BASS, IP67 rating, and 16-hour battery life.",
+      "specs": {
+        "type": "Portable",
+        "features": "Bluetooth 4.2, Waterproof, 16-hour battery",
+        "batteryLife": "16 hours"
+      }
+    }
+  ],
+  "message": [
+    {
+      "id": "b578",
+      "username": "nguyễn đăng việt",
+      "email": "vietnguyen.1022005@gmail.com",
+      "phoneNumber": "0905507622",
+      "issue": "anh laf"
+    },
+    {
+      "id": "8154",
+      "username": "viet",
+      "email": "vietdiduc@gmail.com",
+      "phoneNumber": "0905507622",
+      "issue": "cslmcl"
+    },
+    {
+      "id": "f290",
+      "username": "le ngoc tan",
+      "email": "lengoctan@gmail.com",
+      "phoneNumber": "03058905349",
+      "issue": "anh voet qia de[ troa\n"
+    },
+    {
+      "id": "2105",
+      "username": "nguyen dang viet",
+      "email": "vietnguyen.1022005@gmail.com",
+      "phoneNumber": "0905507622",
+      "issue": "hello world"
+    },
+    {
+      "id": "06e7",
+      "username": "nguyen cong minh",
+      "email": "congminh@gmail.com",
+      "phoneNumber": "108394830948308",
+      "issue": "anh viet qua dang cap"
+    },
+    {
+      "id": "6fe3",
+      "username": "nguyễn đăng việt",
+      "email": "vietnguyen.1022005@gmail.com",
+      "phoneNumber": "0905507622",
+      "issue": "anh viet dang cap khong"
+    }
+  ]
+}
